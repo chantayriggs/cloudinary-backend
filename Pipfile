@@ -13,7 +13,6 @@ marshmallow-sqlalchemy = "*"
 cors = "*"
 gunicorn = "*"
 flask-cors = "*"
-python-dotenv = "*"
 psycopg2 = "*"
 flask-heroku = "*"
 
