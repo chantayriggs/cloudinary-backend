@@ -14,6 +14,8 @@ cors = "*"
 gunicorn = "*"
 flask-cors = "*"
 python-dotenv = "*"
+psycopg2 = "*"
+flask-heroku = "*"
 
 [requires]
 python_version = "3.8"
